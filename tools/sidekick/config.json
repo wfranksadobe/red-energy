@@ -1,6 +1,6 @@
 {
-    "project": "SecurBank",
-    "host": "www.securbankdemo.com",
+    "project": "Red Energy",
+    "host": "https://main--red-energy--wfranksadobe.hlx.live",
     "plugins": [
         {
           "id": "library",
