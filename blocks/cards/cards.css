@@ -149,7 +149,7 @@
 
 .fullwidth .cards-card-body ul li::before {
     content: "•"; 
-    color: #0296A6;
+    color: #EE3426;
     font-size: 48px;
     line-height: 24px;
     display: inline-block; width: 1em;
